@@ -1,0 +1,27 @@
+html {
+    font-family: monospace;
+    background-color: black;
+}
+.container {
+    position: relative;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    justify-content: center;
+    padding: 10px;
+}
+h1 {
+    position: absolute;
+    font-size: 30px;
+    color: antiquewhite;
+    top: 0px;
+    left: 130px;
+}
+p {
+    position: absolute;
+    font-size: 20px;
+    color: brown;
+    top: 60px;
+    left: 130px;
+}
+
